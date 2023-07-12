@@ -1,0 +1,18 @@
+#myform{
+    width:400px;
+    height:500px;
+    background-color: aquamarine;
+    border-radius: 12px;
+    position: relative;
+    left: 750px;
+}
+div{
+    padding-bottom: 12px;
+    text-align: center;
+    position: relative;
+    top:100px;
+}
+h1{
+    position: relative;
+    left:830px;
+}
